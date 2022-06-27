@@ -1,0 +1,52 @@
+{
+	"id": "4514e6e5-a0ce-46fb-8014-de16930dc446",
+	"createdAt": "2021-10-21T10:46:39.564Z",
+	"createdBy": "admin",
+	"auth": [],
+	"endpoints": [],
+	"paths": [
+		{
+			"id": "c91e0a64-9f5e-44d0-f801-ca6ff01139ee",
+			"method": "GET",
+			"path": "/test",
+			"description": "",
+			"parameters": [],
+			"headers": [],
+			"responses": [
+				{
+					"status": "200",
+					"description": "OK",
+					"headers": [],
+					"body": [],
+					"content": []
+				}
+			],
+			"serverScript": "e880c932-93e5-4bd0-90cc-ca7ffc057d58"
+		}
+	],
+	"definitions": [],
+	"documentation": [],
+	"name": "console",
+	"endpoint": "/api/serverscript/console",
+	"ver": "22.6.27.941",
+	"version": null,
+	"description": null,
+	"mediaType": null,
+	"securitySchemes": null,
+	"swaggerURI": null,
+	"swaggerSystem": null,
+	"apiType": "script",
+	"about": null,
+	"enableProxy": false,
+	"restrictAccess": false,
+	"enableTrace": false,
+	"enableIDE": true,
+	"internalAPI": false,
+	"isPublic": false,
+	"tlsAllowUntrusted": true,
+	"useOwnProcess": false,
+	"package": "ebae46e7-00d5-4fde-9697-c3885bf622e7",
+	"apiGroup": null,
+	"apiFormat": 1,
+	"roles": []
+}
